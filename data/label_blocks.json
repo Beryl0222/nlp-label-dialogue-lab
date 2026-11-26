@@ -1,0 +1,56 @@
+[
+  {
+    "id": "lb1",
+    "product": "drink-a-old",
+    "place": "瓶底",
+    "text": "20261130",
+    "refs": [
+      "drink-a-old"
+    ]
+  },
+  {
+    "id": "lb2",
+    "product": "drink-a-new",
+    "place": "瓶颈",
+    "text": "20270722",
+    "refs": [
+      "drink-a-new"
+    ]
+  },
+  {
+    "id": "lb3",
+    "product": "drink-b",
+    "place": "瓶身",
+    "text": "2026-11-20 / 2027-08-20",
+    "refs": [
+      "drink-b"
+    ]
+  },
+  {
+    "id": "lb4",
+    "product": "milk-c",
+    "place": "顶封",
+    "text": "2026年1月31日",
+    "refs": [
+      "milk-c"
+    ]
+  },
+  {
+    "id": "lb5",
+    "product": "drink-a-new",
+    "place": "正标",
+    "text": "无糖；糖含量0g/100mL",
+    "refs": [
+      "drink-a-new"
+    ]
+  },
+  {
+    "id": "lb6",
+    "product": "drink-a-old",
+    "place": "正标",
+    "text": "不额外添加蔗糖；糖含量1.2g/100mL",
+    "refs": [
+      "drink-a-old"
+    ]
+  }
+]
